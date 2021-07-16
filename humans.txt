@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dáire McDermott		dairemcdermott@outlook.com		@dairemc
 
 # THANKS
 
